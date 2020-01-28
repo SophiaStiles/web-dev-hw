@@ -1,7 +1,0 @@
-1. Data travels across the internet in packets. They travel from one machine to another until they reach their destination. Each computer receiving the data assembles the packets like a puzzle, recreating the message.
-
-2. An IP address is an address assigned to any computer including servers to identify it on a given network. A DNS address is used to convert alphabetic references into a server's IP address.
-
-3. A small text file up to 4KB created by a website that is stored in the user's computer either temporarily for that session only or permanently on the hard disk.
-
-4. Protocol, domain name, and the path.
