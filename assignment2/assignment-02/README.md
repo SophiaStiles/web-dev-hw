@@ -1,8 +1,9 @@
 # Assignment-02
-Sophia Stiles
 
-[Forever 21] (https://www.forever21.com/us/shop)
+## Sophia Stiles
 
-[My response file] (./responses.txt)
+ [Forever 21](https://www.forever21.com/us/shop)
 
-![Screenshot] (./images/findscreenshot1.png)
+  [My Response File](./responses.txt)
+
+   ![Screenshot](./images/findscreenshot1.png)
