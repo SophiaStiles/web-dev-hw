@@ -5,4 +5,4 @@
 
  2. I like the GIT Module and have not had a bad experience yet. I think that the new github desktop is going to be a game changer because I have messed up a few times already this class and had to figure out how to fix it which was almost harder than our assignments.
 
- ![Screenshot](./screenshot.png)
+ ![Screenshot](./images/screenshot.png)
