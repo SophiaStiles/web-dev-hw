@@ -2,4 +2,4 @@ There is an endless amount of main documents that you can add. Main documents ar
 
 Structural markup is markup that gives information about the structure of a document. And semantic markup is HTML that introduces meaning to the web page rather than just presentation.
 
-For this assignment I use the moodle page for instructions and for to access the walk through video. I then opened atom and github desktop and followed the instructions from there. 
+For this assignment I use the moodle page for instructions and to access the walk through video. I then opened atom and the github desktop and followed the instructions from there. 
