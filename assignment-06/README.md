@@ -2,4 +2,4 @@
 
 2. Text forums may be used when you are being asked a free response question in a survey. Selection and button input would be used to have someone chose a specific item out of a list of options, might be used in a survey asking what flavor you like best.
 
-For this assignment I watched the walk through video and read the instructions on moodle. I also used atom and the github desktop apps to help me get the assignment done in an easier fashion.  
+3. For this assignment I watched the walk through video and read the instructions on moodle. I also used atom and the github desktop apps to help me get the assignment done in an easier fashion.  
