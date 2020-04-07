@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Gotu&family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
 
 body {
   background: url(https://www.deviantart.com/juniperjupiter00/art/The-Giving-Tree-723437987);
   background-size: auto;
   text-align: center;
-  font-family: 'Gotu', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 600;
 }
 
 /*Text style settings*/
 .text {
-  background-color: #8B0000;
+  background-color: #7FFF00;
   opacity: 87%;
   border-radius: 25px;
   width: 700px;
@@ -20,7 +20,7 @@ body {
 }
 p:first-of-type:first-letter{
   font-family: 'Parisienne', cursive;
-  font-size: 6em;
+  font-size: 4em;
   font-weight: bold;
 }
 
@@ -62,7 +62,7 @@ h3 {
 
 /*Read More Link*/
 a {
-  background-color: #6B8E23;
+  background-color: #DDA0DD;
   border-radius: 10px;
   color: inherit;
   padding: 8px;
