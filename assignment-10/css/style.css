@@ -4,7 +4,7 @@ body {
   background: #32CD32
   background-size: auto;
   text-align: center;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Playfair', serif;
   font-weight: 600;
 }
 
@@ -47,14 +47,9 @@ h3 {
 
 
 
-/*words spoken settings*/
-.spoken {
-  font-style: italic;
-}
-
 /*line divider before link*/
 .divider {
-  border: 2px solid black;
+  border: 2px solid white;
   width: 25%;
   margin: 1em auto;
 }
