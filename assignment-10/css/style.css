@@ -49,7 +49,7 @@ h3 {
 
 /*line divider before link*/
 .divider {
-  border: 2px solid white;
+  border: 2px solid black;
   width: 25%;
   margin: 1em auto;
 }
