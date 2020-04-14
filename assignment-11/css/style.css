@@ -8,7 +8,7 @@ body {
 
 /*Navigation Style*/
 .navigation {
-  background-color: white;
+  background-color: pink;
   width:300px;
   height: 100%;
   position: fixed;
@@ -26,14 +26,14 @@ text-align: center;
 font-size: 200%;
 }
 .logo {
-  background-color: green;
+  background-color: pink;
   width: 150px;
   height: 150px;
   margin: 0 auto 1em auto;
   border: 5px solid pink;
   border-radius:100%;
   line-height: 150px;
-  color: black;
+  color: green;
   text-transform: uppercase;
 }
 .logo:hover {
