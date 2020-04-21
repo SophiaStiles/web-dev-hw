@@ -1,6 +1,6 @@
 /* Menu Bar */
 menu {
-  background-color: #black;
+  background-color: #E0FFFF;
   max-width: 100%;
   margin: auto;
   padding: 0;
@@ -39,7 +39,7 @@ menu {
 #site-links .dropdown-content {
   position: absolute;
   display: none;
-  background-color: inherit;
+  background-color: #E0FFFF;
   z-index: ;
 }
 
