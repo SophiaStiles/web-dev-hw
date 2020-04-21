@@ -1,6 +1,6 @@
 /* Menu Bar */
 menu {
-  background-color: 	#yellow;
+  background-color: #CBBDB5;
   max-width: 100%;
   margin: auto;
   padding: 0;
@@ -17,14 +17,14 @@ menu {
 #site-links .menu-item {
   width: 8em;
   padding: .5em .5em;
-  background-color: #purple;
+  background-color: #D3D3D3;
   text-align: center;
   display: inline-block;
   color: white;
 }
 
 #site-links .menu-item:hover {
-  background-color: #00BFFF;
+  background-color: #b2aaa7;
   color: black;
   border: dotted 1px black;
   font-weight: bold;
@@ -39,12 +39,12 @@ menu {
 #site-links .dropdown-content {
   position: absolute;
   display: none;
-  background-color: #E0FFFF;
+  background-color: inherit;
   z-index: ;
 }
 
 #site-links .dropdown-content a {
-  background-color: #00BFFF;
+  background-color: #b2aaa7;
   color: white;
   border: dotted 1px black;
 }
@@ -52,7 +52,7 @@ menu {
 #site-links .dropdown-content a:hover {
   color: black;
   font-weight: bold;
-  background-color: #7CFC00
+  background-color: #ded6d3
 }
 
 #site-links .dropdown:hover .dropdown-content {
@@ -64,10 +64,4 @@ menu {
   padding: .5em 1em;
   text-align: center;
   display: block;
-}
-
-
-
-#social-links img:hover {
-  opacity: 100%;
 }

@@ -1,5 +1,5 @@
 body {
-  background-color: #pink;
+  background-color: #ded6d3;
   text-align: center;
   font-family: 'Manrope', sans-serif;
 }
@@ -23,7 +23,7 @@ p:first-of-type:first-letter{
 
 /* Main Page Photos*/
 .container {
-  background-color: #black;
+  background-color: #cbbdb5;
   max-width: 100%;
   margin: auto;
   padding: 20px;
@@ -35,13 +35,8 @@ p:first-of-type:first-letter{
 }
 
 .container2 {
-  background-color: #black;
+  background-color: inherit;
   max-width: 100%;
   margin: auto;
   padding: 20px;
-}
-
-
-  background-color: #b2aaa7;
-  border: solid 1px black;
 }
