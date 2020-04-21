@@ -7,6 +7,29 @@ menu {
   font-family: 'Manrope', sans-serif;
 }
 
+/*Top Level Links*/
+#site-links {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+#site-links .menu-item {
+  width: 8em;
+  padding: .5em .5em;
+  background-color: #blue;
+  text-align: center;
+  display: inline-block;
+  color: white;
+}
+
+#site-links .menu-item:hover {
+  background-color: #green;
+  color: black;
+  border: dotted 1px black;
+  font-weight: bold;
+}
+
 /*Drop down menu*/
 #site-links .dropdown {
   display: inline-block;
