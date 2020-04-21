@@ -1,5 +1,5 @@
 body {
-  background-color: #black;
+  background-color: #pink;
   text-align: center;
   font-family: 'Manrope', sans-serif;
 }
@@ -35,7 +35,7 @@ p:first-of-type:first-letter{
 }
 
 .container2 {
-  background-color: inherit;
+  background-color: #black;
   max-width: 100%;
   margin: auto;
   padding: 20px;

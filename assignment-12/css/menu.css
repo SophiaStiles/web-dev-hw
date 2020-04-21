@@ -1,6 +1,6 @@
 /* Menu Bar */
 menu {
-  background-color: 	#black;
+  background-color: 	#yellow;
   max-width: 100%;
   margin: auto;
   padding: 0;
@@ -17,7 +17,7 @@ menu {
 #site-links .menu-item {
   width: 8em;
   padding: .5em .5em;
-  background-color: #black;
+  background-color: #purple;
   text-align: center;
   display: inline-block;
   color: white;
