@@ -3,8 +3,8 @@
   <head>
     <title>Contact</title>
     <meta charset="UTF-8">
-    <meta name="author" content="Elle Wilgus">
-    <meta name="description" content="This is the contact page for my final website for Intro to Web Design.">
+    <meta name="author" content="Sophia Stiles">
+    <meta name="description" content="Final">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="./css/style.css">
   </head>
@@ -27,20 +27,20 @@
     </menu>
 
 <!-- Page Content -->
-        <h1>Get in Touch</h1>
+        <h1>Contact Us Today</h1>
 
-          <h2>Contact Info</h2>
+          <h2>Info</h2>
 
-            263 Luccock Park Road, Livingston, Montana 59047, United States
-      <br>  Phone: 888-223-8131
-      <br>  Email: luccockmanager@gmail.com
+            173 Millionare Lane, Malta, Montana 59538, United States
+      <br>  Phone: 406-797-1846
+      <br>  Email: sophia@gmail.com
 
           <h2>Mailing Address</h2>
 
-            PO Box 80974
-      <br>  Billings, MT 59108
+            PO Box 76
+      <br>  Malta, MT 59538
 
-          <h2>Sign Up for Emails<h2>
+          <h2>Keep In Touch<h2>
 
         <form action="https://example.com/registration.php" method="post">
             First Name:
